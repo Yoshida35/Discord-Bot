@@ -1,6 +1,6 @@
 # My Projects.
-Note - Some were followed from a tutorial.
-Some things I will add in the future may be because I am working on them at school or finalising them at home and or have not finished them.
+### Note - Some were followed from a tutorial.
+### Some things I will add in the future may be because I am working on them at school or finalising them at home and or have not finished them.
 
 
 Discord-Bot:
