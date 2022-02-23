@@ -37,3 +37,9 @@ Tells you the area and circumferance of a circle.
 
 (Bad) Calculator.cpp:
 A bad calculator.
+
+C# tutorial:
+Trying to learn C#.
+
+Password:
+Enter a password. I did more at school but I have not recovered it yet.
