@@ -1,6 +1,6 @@
-#My Projects.
-
-#Most I did but some I got from a tutorial.
+# My Projects.
+Note - Some were followed from a tutorial.
+Some things I will add in the future may be because I am working on them at school or finalising them at home and or have not finished them.
 
 
 Discord-Bot:
@@ -43,3 +43,7 @@ Trying to learn C#.
 
 Password:
 Enter a password. I did more at school but I have not recovered it yet.
+
+
+Tkinter Calculator:
+The outline works for a calculator app. Only aesthetic, not functional yet since I am new to tkinter and had to follow a tutorial.
