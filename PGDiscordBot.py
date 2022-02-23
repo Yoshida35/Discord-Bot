@@ -146,4 +146,4 @@ async def clear1(ctx, amount=1):
 	await ctx.channel.purge(limit=amount)
 
 
-client.run('Nzc2MTY5MjcyNzU3NzE0OTg5.X6w99w.mNTGJ_PyNAujqp0zIMxejyxfogo')
+client.run("Your Code from Discord's api section.")
