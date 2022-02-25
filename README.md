@@ -51,3 +51,7 @@ The outline works for a calculator app. Only aesthetic, not functional yet since
 
 Heads or Tails:
 Self explanatory.
+
+
+Dice Roll:
+Roll a dice a number amount of time.
