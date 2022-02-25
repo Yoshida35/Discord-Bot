@@ -47,3 +47,7 @@ Enter a password. I did more at school but I have not recovered it yet.
 
 Tkinter Calculator:
 The outline works for a calculator app. Only aesthetic, not functional yet since I am new to tkinter and had to follow a tutorial.
+
+
+Heads or Tails:
+Self explanatory.
