@@ -55,3 +55,7 @@ Self explanatory.
 
 Dice Roll:
 Roll a dice a number amount of time.
+
+
+TimesandDates:
+Tells you the year month day and then the time. Followed a tutorial.
