@@ -66,7 +66,7 @@ Hopefully a long time project inspired by a repl.it project I saw and simular to
 
 
 Password and Username:
-You enter your username and It automatically generates the password, you then confirm the password and well that's it so far.r
+You enter your username and It automatically generates the password, you then confirm the password and well that's it so far.
 
 
 Quadratic:
