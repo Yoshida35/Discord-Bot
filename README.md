@@ -1,5 +1,5 @@
 # My Projects.
-### Note - Some were followed from a tutorial.
+### Note - Some were followed from a tutorial which all the links are in the code themselves apart fron 'RPS.py' (read below for more information).
 ### Some things I will add in the future may be because I am working on them at school or finalising them at home and or have not finished them.
 
 
@@ -71,3 +71,7 @@ You enter your username and It automatically generates the password, you then co
 
 Quadratic:
 Doesn't work but it still functions, I want to fix it later and thats why it is here.
+
+
+RPS:
+Rock Paper Scissors. Took me so so long and many hours for a simple project becuase I keep wanting to make it better and I am finally able to have completed it. Not much but it's honest work. Used https://www.w3schools.com/python/ref_string_lower.asp because I got taught it in class but forgot how to use it.
