@@ -79,3 +79,7 @@ Rock Paper Scissors. Took me so so long and many hours for a simple project becu
 
 SomethingIdidinclass:
 Something I did in class because I was expanding on my knowledge but I just found it now.
+
+
+HappyBirthday:
+When you enter your Birthday Date and it is the same day that day then it will say Happy Birthday.
