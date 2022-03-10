@@ -87,3 +87,7 @@ When you enter your Birthday Date and it is the same day that day then it will s
 
 Qrcode:
 Makes a qr code. If there is an error than I didn't run it since I'm still trying to use Visual Studios.
+
+
+Qrdecode:
+Decodes the qr code. If there is an error than I didn't run it since I'm still trying to use Visual Studios.
