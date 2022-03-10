@@ -1,7 +1,7 @@
 # My Projects.
 ### Note - Some were followed from a tutorial which all the links are in the code themselves apart fron 'RPS.py' (read below for more information).
 ### Some things I will add in the future may be because I am working on them at school or finalising them at home and or have not finished them.
-
+## In order of upload and mostly in order of doing it.
 
 Discord-Bot:
 Discord bot that I followed a couple of YouTube videos on.
@@ -83,3 +83,7 @@ Something I did in class because I was expanding on my knowledge but I just foun
 
 HappyBirthday:
 When you enter your Birthday Date and it is the same day that day then it will say Happy Birthday.
+
+
+Qrcode:
+Makes a qr code. If there is an error than I didn't run it since I'm still trying to use Visual Studios.
