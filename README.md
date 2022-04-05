@@ -91,3 +91,8 @@ Makes a qr code. If there is an error than I didn't run it since I'm still tryin
 
 Qrdecode:
 Decodes the qr code. If there is an error than I didn't run it since I'm still trying to use Visual Studios.
+
+
+My (IN PROGRESS) website that may never get completed, depends if I give up.
+https://AB6U4PSH2LKFMEUY.anvil.app/SRDIIVBSCX2TZ352KAIRV6EN
+I do have a domain, just once this is finished i need to find out how to use a domain I already have and host it.
