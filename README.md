@@ -102,3 +102,4 @@ I am currently working in ReactJS and therefore have abandoned the previous proj
 Russion roulette
 
 Kahoot Bot
+Manually Enters the pin and a bot name. (Made it in 5 minutes so it isn't the best).
