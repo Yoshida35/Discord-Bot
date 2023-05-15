@@ -99,7 +99,8 @@ I do have a domain, just once this is finished i need to find out how to use a d
 
 I am currently working in ReactJS and therefore have abandoned the previous project, however, I will want to continue this when I am more confident in the languages I will need to use to create a website (front and back end).
 
-Russion roulette
+Russion roulette:
+Randomizes between 6 chambers and counts down. Gives you an option to give up if you think you will lose.
 
-Kahoot Bot
+Kahoot Bot:
 Manually Enters the pin and a bot name. (Made it in 5 minutes so it isn't the best).
