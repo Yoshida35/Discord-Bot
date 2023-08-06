@@ -92,7 +92,15 @@ Makes a qr code. If there is an error than I didn't run it since I'm still tryin
 Qrdecode:
 Decodes the qr code. If there is an error than I didn't run it since I'm still trying to use Visual Studios.
 
+Russion roulette:
+Randomizes between 6 chambers and counts down. Gives you an option to give up if you think you will lose.
 
+Kahoot Bot:
+Manually Enters the pin and a bot name. (Made it in 5 minutes so it isn't the best).
+
+
+
+Website:
 My (IN PROGRESS) website that may never get completed, depends if I give up.
 https://################.anvil.app/#######################
 I do have a domain, just once this is finished i need to find out how to use a domain I already have and host it.
@@ -101,8 +109,6 @@ I am currently working in ReactJS and therefore have abandoned the previous proj
 https://mnzjw5.csb.app/
 https://codesandbox.io/s/asb-forked-mnzjw5?file=/
 
-Russion roulette:
-Randomizes between 6 chambers and counts down. Gives you an option to give up if you think you will lose.
+I have continued and added to this at school on visual studios and have yet to retrieve it but it is something similar to the code above in layout but not functionality.
 
-Kahoot Bot:
-Manually Enters the pin and a bot name. (Made it in 5 minutes so it isn't the best).
+This codr is not all mine as i am learning JavaScript in school and at home.
